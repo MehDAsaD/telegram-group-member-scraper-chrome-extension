@@ -43,11 +43,11 @@ This Chrome extension scrapes members from a target Telegram group. Simply open 
 
 2. You will see that the group members are being extracted.
 
-   ![Screenshot 2](screenshot/extension–2.png)
+   ![Screenshot 2](screenshot/extension-2.png)
 
 3. The group member information is automatically saved in the Downloads folder on your system.
 
-   ![Screenshot 3](screenshot/extension–3.png)
+   ![Screenshot 3](screenshot/extension-3.png)
 
 
 #TelegramScraper #ChromeExtension #DataScraping #WebScraping #JavaScript #TelegramGroupScraper #TelegramMemberScraper #GroupMemberScraper
