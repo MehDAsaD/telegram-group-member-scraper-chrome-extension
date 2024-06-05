@@ -3,7 +3,7 @@
 
 ## Overview
 
-This Chrome extension scrapes members from a target Telegram group. Simply open the group members list, click the scrape button, and the extension will gather usernames and profile links, saving them in a `.txt` file in your download folder.
+This Chrome extension scrapes members from a target Telegram group. Simply open the group members list, click the scrape button, and the extension will gather names, usernames and bio, saving them in a `.txt` file in your download folder.
 
 
 ### Features
