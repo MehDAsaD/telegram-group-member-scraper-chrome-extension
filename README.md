@@ -1,4 +1,4 @@
-# Instagram Follower Scraper Chrome Extension
+# Telegram Group Member Scraper Chrome Extension
 
 
 ## Overview
