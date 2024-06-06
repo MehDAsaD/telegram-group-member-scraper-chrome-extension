@@ -50,4 +50,11 @@ This Chrome extension scrapes members from a target Telegram group. Simply open 
    ![Screenshot 3](screenshot/extension-3.png)
 
 
+
+### Product Link
+
+This extension is part of the Virtual User Bulk Telegram Message Sender Bot package. For more information about this package, please visit [the product page on the Virtual User website.](https://www.v-user.com/en/side-products/telegram-bulk-message-sender)
+
+
+
 #TelegramScraper #ChromeExtension #DataScraping #WebScraping #JavaScript #TelegramGroupScraper #TelegramMemberScraper #GroupMemberScraper
